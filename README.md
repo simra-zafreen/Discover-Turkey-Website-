@@ -1,5 +1,7 @@
 # Discover-Turkey-Website
-Turkey Travel Website is a multi-page frontend project built using HTML and CSS. The website presents Turkey as a travel destination by highlighting its history, culture, cuisine, famous attractions, and practical travel tips.
+This project is a static travel website about Turkey, designed to practice multi-page website development using HTML and CSS. The website includes a home page introducing Turkey as a dream destination, a culture and food page highlighting Turkish traditions and cuisine, and an attractions page featuring popular places such as Cappadocia, Pamukkale, the Blue Mosque, and the Blue Lagoon.
+
+The project focuses on page structure, navigation, content organization, visual presentation, and beginner-friendly frontend design.
 
 ## Features
 - Multi-page website structure
